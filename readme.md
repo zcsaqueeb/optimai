@@ -17,7 +17,7 @@ Using Better Proxy
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/El-Puqus-Airdrop/optimai-bot.git
+   git clone https://github.com/ahlulmukh/optimai-bot.git
    cd optimai-bot
    ```
 
