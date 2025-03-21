@@ -1,1 +1,6 @@
-
+[
+    {
+        "refreshToken": "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIyZDA1ZGYwNS1kNmUyLTQ1ZWQtYmM1YS0wMzlmODgyOGJjNDAiLCJzdWIiOiIyZDA1ZGYwNS1kNmUyLTQ1ZWQtYmM1YS0wMzlmODgyOGJjNDAiLCJpYXQiOjE3NDI1NTk5MzksImV4cCI6MTc0MzE2NDczOX0.6YXAEp3GMrEgFVg3dd7yR_9GljvLhabwoSAl59mXDMo",
+        "nodeToken": []
+    }
+]
